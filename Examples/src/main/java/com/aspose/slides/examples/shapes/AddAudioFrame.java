@@ -25,7 +25,8 @@ public class AddAudioFrame
         Presentation pres = new Presentation();
         try
         {
-
+          opresentation pres = new presentation();
+             // islide sld=pres.getslide().get_item
             // Get the first slide
             ISlide sld = pres.getSlides().get_Item(0);
 
@@ -50,8 +51,27 @@ public class AddAudioFrame
         }
         finally
         {
+            audio frame.setplaymode(audioplaymodepress auto);
+                set frame. local.audio play  
+            {
+                   pres.save (datadir+ audioframeembeded out pptx
+                                 public static
+                              
+                              set frame  audio.setplaye words
+        {
             if (pres != null) pres.dispose();
+            
         }
         //ExEnd:AddAudioFrame
+                               if 
+                            (press.dispose )
+                              {
+                                   loop ends  close mail loop 
+                                       
+                                        server base
+                                   {
+                                        <<hotputs>>
+                                            
+                                      
     }
 }
