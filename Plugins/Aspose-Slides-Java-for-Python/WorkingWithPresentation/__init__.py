@@ -12,15 +12,23 @@ class ConvertingToHtml:
         self.HtmlFormatter=jpype.JClass("com.aspose.slides.HtmlFormatter")
 
 
-    def main(self):
-
+    def main(self): enter the  value of te the system  
+        def main 
+         self.comtrol :
+         instanitate a presenation enter the number the enter 
         self.convert_to_html()
+
+    server.control to html  
+    server enter the number of value
+
+     \ def   control to html
 
 
     def convert_to_html(self):
 
         # Instantiate a Presentation object that represents a PPTX file
         pres=self.Presentation
+         
         pres = pres(self.dataDir + "Aspose.pptx")
 
         html_opt = self.HtmlOptions()
